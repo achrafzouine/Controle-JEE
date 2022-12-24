@@ -76,3 +76,26 @@ Création du microservice Billing-Service responsable de la facturation.
 ### Billing Service selon la donnée dont on a besoin (name dans le screenshot) : 
 ![billing-service selo le besoin (name)](https://user-images.githubusercontent.com/86847138/200087460-274e02b2-2c3a-4e82-8319-53d9494e7404.PNG)
 
+
+
+
+
+## Troisième Partie : 
+
+### Liaison entre Frontend et Backend dans la partie Backend :
+![liaison](https://user-images.githubusercontent.com/86847138/209448838-05393df4-d551-499e-bf54-2b2cc59788c9.PNG)
+
+
+
+
+### Angular Products :
+![products](https://user-images.githubusercontent.com/86847138/209448854-97d36df0-542d-4c94-873c-d5589c25eb22.PNG)
+
+
+
+### Angular Customers :
+
+![customers](https://user-images.githubusercontent.com/86847138/209448873-a51f6331-ade0-4570-929d-57e420118c9d.PNG)
+
+
+
